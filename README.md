@@ -1,3 +1,10 @@
+# FaceMesh with TensorFlow.js
+
+Tutorial Followed: https://www.youtube.com/watch?v=7lXYGDVHUNw&list=PLXE2Bj4edhg5rSRku5mHowImQiH3eaHmU&ab_channel=NicholasRenotte
+
+This app shows off TensorFlow.js's facemesh model to draw a mesh around a users face using input from their webcam.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
